@@ -1,10 +1,10 @@
-# ¡Hola a todos! 👋
+# Hello everyone! 👋
 
-Soy estudiante de Ingeniería Civil en Informática y Telecomunicaciones y actualmente soy ayudante de Sistemas Operativos en la Universidad Diego Portales.
+I am a Civil Engineering in Computer Science and Telecommunications student. I currently serve as a Teaching Assistant at Universidad Diego Portales across various computer science and basic sciences courses. I am deeply passionate about leveraging technology to build innovative solutions that solve real-world problems and improve people's lives :).
 
-## 🚀 Sobre mí:
-- 🔭 Actualmente estoy trabajando en proyectos de sistemas distribuidos, IA y gestión de proyectos.
-- 🌱 Estoy aprendiendo Flutter, Dart y Python.
+## 🚀 About Me:
+- 🔭 Currently working on projects focused on Distributed Systems, AI, and Project Management.
+- 🌱 Learning Flutter, Dart, and Python.
 
 ### 🛠️ Tecnologías y Herramientas:
 
