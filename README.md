@@ -2,7 +2,7 @@
 
 I am a Civil Engineering in Computer Science and Telecommunications student. I currently serve as a Teaching Assistant at Universidad Diego Portales across various computer science and basic sciences courses. I am deeply passionate about leveraging technology to build innovative solutions that solve real-world problems and improve people's lives :).
 
-## 🚀 About Me:
+## 🌲 About Me:
 - 🔭 Currently working on projects focused on Distributed Systems, AI, and Project Management.
 - 🌱 Learning Flutter, Dart, and Python.
 
